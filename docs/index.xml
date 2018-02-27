@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi vida loca</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Mi vida loca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Feb 2018 18:49:12 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saludar</title>
+      <link>http://example.org/posts/saludar/</link>
+      <pubDate>Tue, 27 Feb 2018 18:49:12 +0200</pubDate>
+      
+      <guid>http://example.org/posts/saludar/</guid>
+      <description>Un saludo ¡Hola, Ana! ¿Qué tal? Muy bien, gracias. ¿Y tú? Bien, gracias. ¡Hasta luego
+Los números del veinte al veintinueve 20 veinte 21 veintiuno 22 veintidós 23 veintitrés 24 veinticuatro 25 veinticinco 26 veintiséis 27 veintisiete 28 veintiocho 29 veintinueve
+¡Fantástico! ¿Tienes ganas de ir al cine? ¡Genial! Vamos esta noche. ¡Tengo sed! ¿Por qué no vamos a tomar algo? ¡Tengo hambre! ¿Vamos de tapas? ¿Vamos a tomar un café?</description>
+    </item>
+    
+    <item>
+      <title>Buenos Dias</title>
+      <link>http://example.org/posts/buenos-dias/</link>
+      <pubDate>Tue, 27 Feb 2018 18:02:06 +0200</pubDate>
+      
+      <guid>http://example.org/posts/buenos-dias/</guid>
+      <description>Buenos días Hola, Maria. Hola, Paco, ¿qué tal?
+Buenas tardes, señora Bañelos. Buenas tardes, señora Pasual.
+Me llamo María Buenos días, me llamo Maria. ¿Y tú? Buenos días, me llamo Ramos.
+Buenas noches Hola, José, ¿cómo estás? Bien gracias. ¿Y tú? Bien gracias.
+Buenas tardes, señor Juan. ¿Cómo esta usted? Bien gracias. ¿Y tú? Muy bien, también, gracias.
+Mucho gusto Buenas tardes. ¿La señora Pascal, por favor? Si, soy yo.</description>
+    </item>
+    
+  </channel>
+</rss>
