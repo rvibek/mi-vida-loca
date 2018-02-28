@@ -5,21 +5,21 @@ date: 2018-02-27T18:02:06+02:00
 draft: false
 ---
 ## Buenos días
-Hola, Maria.
-Hola, Paco, ¿qué tal?
+Hola, Maria.  
+Hola, Paco, ¿qué tal?  
 
-Buenas tardes, señora Bañelos.
-Buenas tardes, señora Pascual.
+Buenas tardes, señora Bañelos. 
+Buenas tardes, señora Pascual. 
 
 
 ## Me llamo María
-Buenos días, me llamo Maria. ¿Y tú?
-Buenos días, me llamo Ramos.
+Buenos días, me llamo Maria. ¿Y tú?  
+Buenos días, me llamo Ramos.  
 
 ## Buenas noches
-Hola, José, ¿cómo estás?
-Bien gracias. ¿Y tú?
-Bien gracias.
+Hola, José, ¿cómo estás?  
+Bien gracias. ¿Y tú?  
+Bien gracias.  
 
 Buenas tardes, señor Juan. ¿Cómo esta usted?
 Bien gracias. ¿Y tú?
