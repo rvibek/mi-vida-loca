@@ -9,7 +9,7 @@ Hola, Maria.
 Hola, Paco, ¿qué tal?
 
 Buenas tardes, señora Bañelos.
-Buenas tardes, señora Pasual.
+Buenas tardes, señora Pascual.
 
 
 ## Me llamo María
