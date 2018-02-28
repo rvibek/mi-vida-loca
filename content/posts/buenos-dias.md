@@ -5,8 +5,8 @@ date: 2018-02-27T18:02:06+02:00
 draft: false
 ---
 ## Buenos días
-Hola, Maria.  
-Hola, Paco, ¿qué tal?  
+Hola, Maria. \ 
+Hola, Paco, ¿qué tal?  \
 
 Buenas tardes, señora Bañelos. 
 Buenas tardes, señora Pascual. 
