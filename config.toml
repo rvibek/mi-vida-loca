@@ -6,7 +6,6 @@ title = "Mi Vida Loca"
 theme = "cactus"
 publishDir="docs"
 
-
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
